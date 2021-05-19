@@ -1,0 +1,13 @@
+com\example\models\Producto.class
+com\example\Main.class
+com\example\models\Vehicle.class
+com\example\models\Competitor.class
+com\example\models\CitaDeVacunacion.class
+com\example\models\CompetitorDTO.class
+com\example\models\UseVacunacion.class
+com\example\models\ReporteVacunación.class
+com\example\models\UbicaciónVacunador.class
+com\example\PersistenceManager.class
+com\example\services\CompetitorService.class
+com\example\models\CitaDeVacunacionDTO.class
+com\example\models\ReporteDeSíntomas.class
